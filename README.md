@@ -2,9 +2,6 @@
 <h3 align="center">I'm a software developer</h3>
 
 - 🌱 I’m currently learning **.Net Core,Java**
-
-- 💬 Ask me about **SQL,C#,JS**
-
 - 📫 How to reach me **giordanofedeg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
