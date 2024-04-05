@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying a higher degree in programming (second year at the National Technological University).<br>I'm looking to collaborate on projects made in C#, Javascript, Java. Also in SQL and NOSQL databases.<br>Ask me about C# or SQL<br>I'm a person dedicated to learning new technologies and being able to implement them in real projects.
+I'm currently studying a higher technical degree in programming (second year at the National Technological University).<br>I'm looking to collaborate on projects made in C#, Javascript, Java. Also in SQL and NOSQL databases.<br>Ask me about C# or SQL<br>I'm a person dedicated to learning new technologies and being able to implement them in real projects.
 
 
 ## 🌐 Socials:
