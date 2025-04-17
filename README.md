@@ -1,7 +1,4 @@
-# 💫 About Me:
-I'm looking to collaborate on projects made in C#, Javascript, Java, SQL, and NoSQL databases.
-Ask me about C#, Java, or SQL.
-I'm a person dedicated to learning new technologies and being able to implement them in real projects.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/federico-gonzalez-itsf) 
