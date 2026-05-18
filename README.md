@@ -3,6 +3,10 @@
 
 > Building scalable, clean-code solutions with real production experience. Based in Córdoba, Argentina 🇦🇷
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=405516GONZALEZFEDERICO&label=Profile%20views&color=0e75b6&style=flat" alt="405516GONZALEZFEDERICO" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=405516GONZALEZFEDERICO&theme=dark&no-frame=true&column=7" alt="trophies" /></a> </p>
+
 ---
 
 ## 🌐 Socials
@@ -61,7 +65,7 @@
 
 ## 🚀 About Me
 
-- 🏢 Full Stack Developer at **Techforb** (Dec 2024 – May 2026) — working on fintech, insurtech & HR platforms
+- 🏢 Full Stack Developer at **Techforb** (Dec 2024 – May 2026) — fintech, insurtech & HR platforms
 - 🎓 **Técnico Superior en Programación** — UTN FRC (2023–2025)
 - ⚙️ Specialized in **microservices architecture**, clean code & scalable frontends
 - 🤖 Daily user of **GenAI tools** (Claude Code CLI, Cursor) to optimize development workflow
@@ -83,20 +87,17 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=405516GONZALEZFEDERICO&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=405516GONZALEZFEDERICO&layout=compact&theme=dark&hide_border=true&langs_count=8)
+<div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=405516GONZALEZFEDERICO&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=405516GONZALEZFEDERICO&layout=compact&theme=dark&hide_border=true&langs_count=8&card_width=445)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=405516GONZALEZFEDERICO&theme=dark&hide_border=true)
+
+</div>
 
 ---
-
-## 🗂️ Featured Repos
-
-| Repo | Description | Stack |
-|---|---|---|
-| [properties-fe](https://github.com/federicogonzalez97/properties-fe) | Property portal frontend | Vue |
-| [properties-be](https://github.com/federicogonzalez97/properties-be) | Property portal backend | TypeScript / NestJS |
-| [patterns-guru](https://github.com/federicogonzalez97/patterns-guru) | Design patterns practice | Java |
-| [patterns-guru-fe](https://github.com/federicogonzalez97/patterns-guru-fe) | Design patterns frontend | TypeScript |
 
 ---
 
