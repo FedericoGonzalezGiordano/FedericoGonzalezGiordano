@@ -7,6 +7,8 @@
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/federico-gonzalez-itsf)
+[![GitHub UTN](https://img.shields.io/badge/GitHub%20UTN-%23121011.svg?logo=github&logoColor=white)](https://github.com/405516GONZALEZFEDERICO)
+[![GitHub Techforb](https://img.shields.io/badge/GitHub%20Techforb-%23121011.svg?logo=github&logoColor=white)](https://github.com/federicogonzalez97)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:federico.gonzalez.it@gmail.com)
 
 ---
@@ -76,6 +78,25 @@
 | EasyBanking Finsuite | Angular + Spring Boot + Docker | Full Stack |
 | Avla (insurtech) | Java 17 + AWS SDK + Microservices | Backend |
 | Creditú (fintech proptech) | Vue + NestJS + Unit Testing | Full Stack |
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=405516GONZALEZFEDERICO&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=405516GONZALEZFEDERICO&layout=compact&theme=dark&hide_border=true&langs_count=8)
+
+
+---
+
+## 🗂️ Featured Repos
+
+| Repo | Description | Stack |
+|---|---|---|
+| [properties-fe](https://github.com/federicogonzalez97/properties-fe) | Property portal frontend | Vue |
+| [properties-be](https://github.com/federicogonzalez97/properties-be) | Property portal backend | TypeScript / NestJS |
+| [patterns-guru](https://github.com/federicogonzalez97/patterns-guru) | Design patterns practice | Java |
+| [patterns-guru-fe](https://github.com/federicogonzalez97/patterns-guru-fe) | Design patterns frontend | TypeScript |
 
 ---
 
