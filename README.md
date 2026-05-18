@@ -59,7 +59,7 @@
 
 ## 🚀 About Me
 
-- 🏢 Full Stack Developer at **Techforb** (Dec 2024 – present) — working on fintech, insurtech & HR platforms
+- 🏢 Full Stack Developer at **Techforb** (Dec 2024 – May 2026) — working on fintech, insurtech & HR platforms
 - 🎓 **Técnico Superior en Programación** — UTN FRC (2023–2025)
 - ⚙️ Specialized in **microservices architecture**, clean code & scalable frontends
 - 🤖 Daily user of **GenAI tools** (Claude Code CLI, Cursor) to optimize development workflow
