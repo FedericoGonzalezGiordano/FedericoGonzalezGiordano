@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on: Open to new opportunities<br>👯 I'm looking to collaborate on: Fintech or backend-heavy projects (Spring Boot / NestJS)<br>🤝 I'm looking for help with: English technical conversations<br>🌱 I'm currently learning: Data Science · System design · Cloud architecture<br>💬 Ask me about: Angular, Vue, Spring Boot, NestJS, Microservices, Docker<br>⚡ Fun fact: I use AI tools daily to code faster, but I still review every line myself
+🔭 I'm currently working on: Open to new opportunities<br>👯 I'm looking to collaborate on: Fintech, FullStack Projects or backend-heavy projects (Spring Boot / NestJS / Angular / Vue)<br>🤝 I'm looking for help with: English technical conversations<br>🌱 I'm currently learning: Data Engineer · System design · Cloud architecture<br>💬 Ask me about: Angular, Vue, Spring Boot, NestJS, Microservices, Docker<br>⚡ Fun fact: I use AI tools daily to code faster, but I still review every line myself
 
 
 ## 🌐 Socials:
